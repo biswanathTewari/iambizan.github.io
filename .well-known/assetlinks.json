@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "org.milaap.app.android",
+    "sha256_cert_fingerprints":
+    ["0E:EC:4E:8D:73:AB:0E:1B:27:80:D3:2E:74:E2:68:CB:7B:7A:DA:CD:24:AB:2E:CA:54:EE:2A:9D:9C:BD:44:81"]
+  }
+}]
