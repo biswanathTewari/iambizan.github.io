@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "X9AV96QFBC.com.imaginepediatrics.appimaginepediatrics"
+        ],
+        "components": [
+          {
+            "/": "/mobile/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "X9AV96QFBC.com.imaginepediatrics.appimaginepediatrics"
+    ]
+  }
+}
